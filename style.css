@@ -184,3 +184,10 @@ body,html{
 #reset-btn:active{
     transform: scale(0.9);
 }
+
+.links{
+    font-size: 14px;
+    font-family: sans-serif;
+    text-decoration: none;
+    color:#2f004b;
+}
